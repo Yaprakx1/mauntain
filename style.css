@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(manz2.jpeg);
+    
+    background-size: cover;
+    width: 100%vh;
+    
+}
+.box{
+    background-color: rgb(112, 171, 179);
+    
+    width: 450px;
+    text-align: center;
+    color:white;
+    margin: 200px auto;
+    padding: 15px;
+    font-family: sans-serif;
+
+    
+}
+img{
+    cursor: pointer;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+text-align: center;
+transition: 0.5s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+h5{
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+p{
+    margin-top: 15px;
+    text-align: justify;
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box ul li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+
+}
+    
+
+
+i{
+    color: white;
+    font-size: 60px;
+    
+    
+}
+.box li i{
+    transition: all ease-in-out 250ms;
+}
+ i:hover{
+    color: rgb(132, 150, 101);
+    
+}
+
