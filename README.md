@@ -2,6 +2,6 @@
 
 kişisel web site
 
-html ce css kullanıldı
+html ve css kullanıldı
 
 ![](ekran.gif)eklendi
